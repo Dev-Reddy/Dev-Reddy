@@ -1,5 +1,5 @@
 <h1 align="center">Hey,I am Dev Reddy</h1>
-<h2 align="center">No, my name is not an acronym for Developer. But, yes I am one 😉</h2>
+<h2 align="center">No, my name is not an acronym for Developer. But yes, I am one. 😉</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-reddy" alt="dev-reddy" /></a> </p>
 
