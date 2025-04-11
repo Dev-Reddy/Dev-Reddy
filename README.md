@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-reddy&show_icons=true&locale=en" alt="dev-reddy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-reddy&" alt="dev-reddy" /></p>
+
+![GitHub contributions](https://github.com/dev-reddy/dev-reddy/blob/output/github-contribution-grid-snake.svg)
