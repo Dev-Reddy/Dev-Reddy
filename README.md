@@ -22,4 +22,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-reddy&" alt="dev-reddy" /></p>
 
-![GitHub contributions](https://github.com/dev-reddy/dev-reddy/blob/output/github-contribution-grid-snake.svg)
